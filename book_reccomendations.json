@@ -1,29 +1,46 @@
 {
-    "genres": {
-      "adventure": [
-        "Treasure Island by Robert Louis Stevenson",
-        "Into the Wild by Jon Krakauer"
-      ],
-      "fantasy": [
-        "The Hobbit by J.R.R. Tolkien",
-        "Harry Potter and the Sorcerer's Stone by J.K. Rowling"
-      ],
-      "science-fiction": [
-        "Dune by Frank Herbert",
-        "Neuromancer by William Gibson"
-      ],
-      "spy": [
-        "The Bourne Identity by Robert Ludlum",
-        "Tinker, Tailor, Soldier, Spy by John le Carré"
-      ],
-      "crime": [
-        "The Godfather by Mario Puzo",
-        "Gone Girl by Gillian Flynn"
-      ],
-      "romance": [
-        "Pride and Prejudice by Jane Austen",
-        "Outlander by Diana Gabaldon"
-      ]
-    }
+  "genres": {
+    "adventure": [
+      "Treasure Island by Robert Louis Stevenson",
+      "Into the Wild by Jon Krakauer",
+      "The Call of the Wild by Jack London",
+      "The Three Musketeers by Alexandre Dumas",
+      "Around the World in Eighty Days by Jules Verne"
+    ],
+    "fantasy": [
+      "The Hobbit by J.R.R. Tolkien",
+      "Harry Potter and the Sorcerer's Stone by J.K. Rowling",
+      "The Name of the Wind by Patrick Rothfuss",
+      "Mistborn: The Final Empire by Brandon Sanderson",
+      "The Lion, the Witch and the Wardrobe by C.S. Lewis"
+    ],
+    "science-fiction": [
+      "Dune by Frank Herbert",
+      "Neuromancer by William Gibson",
+      "Foundation by Isaac Asimov",
+      "Snow Crash by Neal Stephenson",
+      "Ender's Game by Orson Scott Card"
+    ],
+    "spy": [
+      "The Bourne Identity by Robert Ludlum",
+      "Tinker, Tailor, Soldier, Spy by John le Carré",
+      "Casino Royale by Ian Fleming",
+      "The Day of the Jackal by Frederick Forsyth",
+      "The Spy Who Came in from the Cold by John le Carré"
+    ],
+    "crime": [
+      "The Godfather by Mario Puzo",
+      "Gone Girl by Gillian Flynn",
+      "The Girl with the Dragon Tattoo by Stieg Larsson",
+      "In Cold Blood by Truman Capote",
+      "The Silence of the Lambs by Thomas Harris"
+    ],
+    "romance": [
+      "Pride and Prejudice by Jane Austen",
+      "Outlander by Diana Gabaldon",
+      "Jane Eyre by Charlotte Brontë",
+      "The Notebook by Nicholas Sparks",
+      "The Time Traveler's Wife by Audrey Niffenegger"
+    ]
   }
-  
+}
