@@ -1,0 +1,29 @@
+{
+    "genres": {
+      "adventure": [
+        "Treasure Island by Robert Louis Stevenson",
+        "Into the Wild by Jon Krakauer"
+      ],
+      "fantasy": [
+        "The Hobbit by J.R.R. Tolkien",
+        "Harry Potter and the Sorcerer's Stone by J.K. Rowling"
+      ],
+      "science-fiction": [
+        "Dune by Frank Herbert",
+        "Neuromancer by William Gibson"
+      ],
+      "spy": [
+        "The Bourne Identity by Robert Ludlum",
+        "Tinker, Tailor, Soldier, Spy by John le Carré"
+      ],
+      "crime": [
+        "The Godfather by Mario Puzo",
+        "Gone Girl by Gillian Flynn"
+      ],
+      "romance": [
+        "Pride and Prejudice by Jane Austen",
+        "Outlander by Diana Gabaldon"
+      ]
+    }
+  }
+  
